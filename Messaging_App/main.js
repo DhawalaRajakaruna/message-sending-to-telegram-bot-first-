@@ -1,6 +1,6 @@
 const form = document.querySelector('#form')
-var token="7457753366:AAHF0FvqjQ_yvsUAoQ3ztmDl6BVHG-aEzvE" 
-var chat_id = "1899116831"
+var token="<Add your token here>" 
+var chat_id = "<Add your ID here>"
 // sending message to telegram when hit send button
 form.addEventListener("submit", (e) => {
     e.preventDefault()
